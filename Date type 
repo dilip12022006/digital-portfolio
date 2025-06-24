@@ -16,7 +16,7 @@
         "Date type"
       ],
       "metadata": {
-        "id": "I-rADp4JYQog"
+        "id": "7lssYXCQgliN"
       }
     },
     {
@@ -92,13 +92,13 @@
         "print(f\"Modified list : {numbers}\")"
       ],
       "metadata": {
+        "id": "S4n2Wm_kgnjQ",
+        "outputId": "97957a56-585e-4214-8bea-0a4025a1a028",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "OG4oQDV6YdfC",
-        "outputId": "3c606341-d912-4380-9485-4b4f62ac26aa"
+        }
       },
-      "execution_count": 2,
+      "execution_count": 8,
       "outputs": [
         {
           "output_type": "stream",
