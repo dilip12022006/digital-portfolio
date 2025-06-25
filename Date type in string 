@@ -13,10 +13,10 @@
     {
       "cell_type": "markdown",
       "source": [
-        "Data type in string"
+        "Date type in string"
       ],
       "metadata": {
-        "id": "iOPiilwOYhWw"
+        "id": "oQ3CUsdSa1EE"
       }
     },
     {
@@ -49,13 +49,13 @@
         "    main()"
       ],
       "metadata": {
-        "id": "-z4wFdXrYojU",
-        "outputId": "9d268d52-5032-4578-abe3-99d638a67b72",
+        "id": "8BHzhtPPa4Jw",
+        "outputId": "f4656ed8-6802-43d6-c187-55aed83a73e6",
         "colab": {
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 1,
+      "execution_count": 2,
       "outputs": [
         {
           "output_type": "stream",
